@@ -1,4 +1,1 @@
-hi ✌
-my name is adrian.
-im here to practice and learning programming.
-i created this page in 05/31/2025.
+Hello👋🏻❤️, I am Adrian, and this is my first project. I came to GitHub📱 to create better and more projects in programming📖📝💻🖥️. I want to thank my friend and mentor, devASMRite💑, for helping me.05/31/2025.🤙🏻🤝🏻👋🏻
